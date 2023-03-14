@@ -1,0 +1,14 @@
+{
+    "name": "m2s/task_3",
+    "autoload": {
+        "psr-4": {
+            "Task3\\": "./src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Stupid Monkey"
+        }
+    ],
+    "require": {}
+}
